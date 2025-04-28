@@ -199,9 +199,7 @@ def main():
         console.print("[bold red]Failed to generate access token. Exiting.[/bold red]")
         return
 
-    partners = {
-        "b5c94cda-23bb-b843-6be3-3f929e37e191": "Tri-Valley"  # Example partner
-    }
+    partners = {}
 
     all_devices_info = []
 
