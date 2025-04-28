@@ -7,9 +7,9 @@ from rich.table import Table
 import datetime
 import os
 
-URL = "https://netenrich.opsramp.com/"
-CLIENT_ID = "cHrCgP3TWVtv3EwMzah3hfjH34eXUHM8"
-CLIENT_SECRET = "c55PPRzMPg3BWp5tXZMwwT8Gzpq6GmUbBwWnAfdhJZjmVHfXB59ZMM5rZY3kA5wf"
+URL = ""
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 
 def token_generation():
     try:
